@@ -1,0 +1,1 @@
+# Onmyoji-automatic-play-script
