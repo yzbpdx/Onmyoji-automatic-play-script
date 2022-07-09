@@ -1,4 +1,5 @@
 # Onmyoji-automatic-play-script
+阴阳师自动战斗脚本
 ****
 ## -*- coding: utf-8 -*-
 """  
